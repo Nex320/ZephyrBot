@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code E67...[0m[2;31m[0m
+```
+
+Cause: This normally happens when the Hard drive is experiencing failure.
+
+Solution: Replace Hard Drive with known working one.
+
+``Additional info: Kernel HDD communications timed out, ERROR_XSS_HDD_TIMED_OUT``

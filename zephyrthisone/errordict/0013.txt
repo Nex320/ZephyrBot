@@ -1,0 +1,10 @@
+```ansi
+[2;31mRROD code 0013...[0m[2;31m[0m
+```
+
+Cause: EDRAM Overheat.
+
+Solution: Insure console isnt suffocated, Open the console and clean and apply new thermal paste.
+
+``Additional info: eDRAM thermal overload, ERROR_THERMAL_EDRAM``
+

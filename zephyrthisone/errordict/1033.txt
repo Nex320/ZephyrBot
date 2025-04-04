@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1033(E79)...[0m[2;31m[0m
+```
+
+Cause: The system is missing critical files, This is normally caused by a bad NAND.
+
+Solution: No easy solution, Advanced solutions include reflashing the NAND and or replacing the nand with soldering tools.
+
+``Additional info: XAM could not be found on the nand, ERROR_XSS_FLASH_NO_XAM``

@@ -1,0 +1,10 @@
+```ansi
+[2;31mRROD code 0032...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by a faulty capacitor.
+
+Solution: No easy to do fixes, Advanced solutions include finding and replacing the affected capacitor with soldering tools.
+
+``Additional info: This only affects Slim and E 360's, VREG_VMEM_PWRGD negated unexpectedly, ERROR_V_MEM``
+

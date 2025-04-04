@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 05...[0m[2;34m[0m
+```
+
+Cause: Hard disk drive (HDD) not locked.
+
+Solution: No easy solution, Advanced solutions include Installing a modchip and or using special tools to aquire the HDD key from the xbox's TSOP and then locking said HDD via computer software. 
+ 
+``Additional info: You should not have encountered this error unless the hard drive has been replaced previously``

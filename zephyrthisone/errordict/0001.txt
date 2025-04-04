@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 0001...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by two main things, Either a you just had a power surge or you have a bad power supply.
+
+Solution: Replace the power supply and try again.
+
+``Additional info: ANA_V12P0_PWRGD negated unexpectedly, ERROR_V_12P0``

@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 10...[0m[2;34m[0m
+```
+
+Cause: DVD drive timeout. Just like Error Code 08 and 07 this can be caused by a loose or faulty cable.
+
+Solution: Check the yellow cable running from the motherboard to the DVD drive. If all else fails, replace the DVD drive.
+
+``Additional info: N/A``

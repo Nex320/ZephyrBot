@@ -1,0 +1,20 @@
+```ansi
+[2;31mRROD code 0003...[0m[2;31m[0m
+```
+
+---=====FOR FAT XBOX 360'S=====---
+
+Cause: This is normally caused by bad capacitors.
+
+Solution: No easy solution, Advanced solutions include recapping the motherboard.
+
+``Additional info: VREG_GPU_PWRGD negated unexpectedly, ERROR_V_GPUCORE``
+
+
+---=====FOR SLIM XBOX 360'S=====---
+
+Cause: This is normally caused a bad voltage regulator.
+
+Solution: No easy solution, Advanced solutions include replacing the affected regulator.
+
+``Additional info: VREG_V3P3_PWRGD negated unexpectedly, ERROR_V_3P3``

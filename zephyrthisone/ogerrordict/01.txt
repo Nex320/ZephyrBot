@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 01...[0m[2;34m[0m
+```
+
+Cause: This is a general motherboard issue. The root of the issue is unknown
+
+Solution: Replace the motherboard.
+
+``Additional info: N/A``

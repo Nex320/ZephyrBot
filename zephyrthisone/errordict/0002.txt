@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 0002...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by bad CPU filter capacitors.
+
+Solution: No easy solution, Advanced solutions include recapping the motherboard.
+
+``Additional info: VREG_CPU_PWRGD negated unexpectedly, ERROR_V_CPUCORE``

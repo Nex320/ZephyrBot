@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1031(E77)...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by a faulty Ethernet controller.
+
+Solution: Without special tools and experience there is no solution unless you find someone to fix it.
+
+``Additional info: Could not read from or write to Ethernet PHY, ERROR_ETHERNET_PHY_READ_WRITE_FAIL``

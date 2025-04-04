@@ -1,0 +1,10 @@
+```ansi
+[2;31mRROD code 0030...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by a faulty ANA/HANA chip.
+
+Solution: No easy to do fixes, Advanced solutions include replacing the ANA/HANA with soldering tools.
+
+``Additional info: ANA/HANA temperature registers read as zero, ERROR_NO_TEMPERATURES``
+

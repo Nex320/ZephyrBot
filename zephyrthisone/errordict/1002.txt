@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1002(E66)...[0m[2;31m[0m
+```
+
+Cause: This normally happens when the DVD Drive is experiencing failure or the SATA cable is loose.
+
+Solution: Check connections and/or replace DVD Drive.
+
+``Additional info: Kernel could not create DVD drive instance, ERROR_XSS_CDROM_COULD_NOT_CREATE_DEVICE``

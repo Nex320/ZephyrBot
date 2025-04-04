@@ -1,0 +1,8 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 07...[0m[2;34m[0m
+```
+
+Cause: Hard drive timeout / HDD took too long to become ready. This is usually caused by a dead HDD/Faulty wires.
+
+Solution: Check the HDD wires for visible damage and check the power connector with a multimeter, If all else fails, mod the console and replace the HDD.
+``Additional info: This error is most common in Xboxes with dead hard drives.``

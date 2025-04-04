@@ -1,0 +1,10 @@
+```ansi
+[2;31mRROD code 0012...[0m[2;31m[0m
+```
+
+Cause: GPU overheat or slim false overheat ("!Z falseOH" for more info on false overheat)
+
+Solution: Insure console isnt suffocated, Open the console and clean and apply new thermal paste, If that doesnt work refer to !Z falseOH for more info
+
+``Additional info: You may want to investigate the overheat further as 360's rarely naturally overheat, GPU thermal overload, ERROR_THERMAL_GPU``
+

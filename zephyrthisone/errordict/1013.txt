@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1013(E71)...[0m[2;31m[0m
+```
+
+Cause: This happens when your system dashboard files are missing, Typicly caused by a bad NAND.
+
+Solution: No easy to do fixes, Advanced solutions include Re-flashing the NAND with a tool or replacing the NAND with soldering equipment.
+
+``Additional info: XAM could not find a dash to load, ERROR_XSS_XAM_NO_DASH``

@@ -1,0 +1,8 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 08...[0m[2;34m[0m
+```
+
+Cause: The hard disk drive has not been found.
+
+Solution: Ensure all wires to the hard drive is connected. Ensure there is no damage to the IDE cable, if there is, replace it. Take the HDD out and make sure the jumper is set correctly. There should be a diagram printed on the drive’s label that shows how the jumper should be connected. Make sure its set to Cable Select or Master.
+``Additional info: N/A``

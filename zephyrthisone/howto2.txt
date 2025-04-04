@@ -1,0 +1,4 @@
+-====-
+**Xbox 360 S**
+
+When retrieving the error code using the procedure above, the values are displayed by the outer segments of the [Ring of Light](https://cdn.discordapp.com/attachments/1357140568030838825/1357206418939314318/BD0CCF0B-2816-46C8-86E5-966E79913C71.png?ex=67ef5c79&is=67ee0af9&hm=1d8fab1d568aa80ca36549f5e72fa76a18bbbcb510f132a7b060aae49ef95cd4&) rapidly flashing green, as the outer segments can no longer turn red.

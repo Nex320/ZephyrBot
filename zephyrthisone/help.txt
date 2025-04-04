@@ -1,0 +1,20 @@
+```Zephyr Xbox diagnosis By Nex389 & RosaVista```
+
+```Index of commands...
+
+!Z Help - Shows this message.
+--======--
+!Z Error - Lookup an error code - SYNTAX : Error [errorcode]
+--======--
+!Z OGerror - Lookup an error code for OG Xbox - SYNTAX : OGerror [errorcode]
+--======--
+!Z FalseOH - Gives info on Xbox 360 slim fale overheat issues.
+--======--
+!Z Howto - Shows you how to get your RROD Code for the xbox 360.
+--======--
+!Z Randomerror - Sends a random error from the Zephyr error database.
+--======--
+!Z Index - Shows the index of known error codes in the Zephyr database.
+--======--
+!Z Say - Parrots what you say to it - SYNTAX : Say [messagetosay]```
+Join our Discord server [here!](https://discord.gg/YJueQxR2Qc)

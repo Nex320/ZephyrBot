@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1023(E75)...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by a faulty Ethernet controller.
+
+Solution: Without special tools and experience there is no solution unless you find someone to fix it.
+
+``Additional info: Southbridge could not communicate with Ethernet PHY over MDIO/MDC, ERROR_UNEXPECTED_ETHERNET_PHY_VENDOR``

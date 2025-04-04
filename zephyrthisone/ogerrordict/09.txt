@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 09...[0m[2;34m[0m
+```
+
+Cause: Hard drive parameters are missing or incorrect.
+
+Solution: The hard drive power cable may be unplugged, it might be in the wrong transfer mode, or the jumper is set to slave instead of master.
+
+``Additional info: This is a particularly rare error to come by.``

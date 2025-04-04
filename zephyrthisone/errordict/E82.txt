@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code E82...[0m[2;31m[0m
+```
+
+Cause: This is normally caused by bad GPU on Slim and E 360's.
+
+Solution: Without special tools and experience there is no solution unless you find someone to fix it.
+
+``Additional info: CGPU to eDRAM High Speed Link failed, ERROR_HSIO_CALIBRATION_FAILED``

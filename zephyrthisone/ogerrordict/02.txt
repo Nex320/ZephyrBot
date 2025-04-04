@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 02...[0m[2;34m[0m
+```
+
+Cause: EEPROM check failed. You may have flashed something wrong or caused a short somewhere on your motherboard (possibly while soldering).
+
+Solution: If you’re using a modchip and you just flashed it, try again using a different BIOS. If you recently did some soldering to your Xbox, check for any stray solder balls that may be present and carefully remove them.
+
+``Additional info: This error is triggered by the bootloader and as a result does not display an error code on screen. You will see the Xbox rebooting and flashing red and green lights (FRAG).``

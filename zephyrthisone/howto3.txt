@@ -1,0 +1,4 @@
+-====-
+**Xbox 360 E**
+
+The outer ring of the [Ring of Light](https://cdn.discordapp.com/attachments/1357140568030838825/1357206438296031302/6A813DA9-EEAB-4159-A791-C6A7401F2D4A.png?ex=67ef5c7e&is=67ee0afe&hm=b6a0037932e9b7ad5e1d582ee74139b7658d000ef3641e435578b8f749a5c793&) on the Xbox 360 E can no longer light up in segments. When retrieving the error code using the procedure above, the values are displayed via the number of blinks. For example, if the ring blinks 2 times, and then pauses, and then blinks 2 times again, the value is 2.

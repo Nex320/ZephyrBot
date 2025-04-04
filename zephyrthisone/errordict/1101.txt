@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1101(E81)...[0m[2;31m[0m
+```
+
+Cause: This is caused by a faulty NAND.
+
+Solution: No easy to do fixes, Advanced solutions include replacement of the NAND with soldering tools.
+
+``Additional info: System cannot write to NAND, XeKeysSecuritySaveSettings failed``

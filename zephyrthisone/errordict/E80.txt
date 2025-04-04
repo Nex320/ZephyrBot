@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code E80...[0m[2;31m[0m
+```
+
+Cause: This can happen if your EFuse burning circut is damaged or disabled and you attempt an update.
+
+Solution: No easy solution, Advanced solutions include Enabling/repairing the EFuse burning circut or flashing back to the previous update if you have a backup, If you want to bypass efuses modding would be in order.
+
+``Additional info: EFuses could not be burned to current firmware version.``

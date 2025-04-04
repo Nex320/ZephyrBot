@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 04...[0m[2;34m[0m
+```
+
+Cause: RAM check failed. This could be from pins on the RAM chip(s) becoming bridged, possibly from an accidental splash of solder or a failed 128MB RAM upgrade
+
+Solution: Replace the RAM chips. this can be time consuming and is suggested to only do so with solder knowledge 
+
+``Additional info: This error is triggered by the bootloader and as a result does not display an error code on screen. You will see the Xbox rebooting and flashing red and green lights (FRAG)``

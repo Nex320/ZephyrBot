@@ -1,0 +1,28 @@
+```ansi
+[2;34mXbox 360 Slim False overheat issue...[0m
+```
+
+**Are you experiencing false overheat on your 360 slim?**
+
+**How to identify a false overheat?**
+
+If your Xbox immediately overheats only a second or two after powering on you most likely have a false overheat, Normal overheats typically happen much slower in a span of 30-60 seconds after startup combined with the fans gradually speeding up till the overheat RROD happens.
+
+**Why is this happening?**
+
+When microsoft was manufacturing corona through waitsburg motherboards* they used resistors prone to failing in certain places on the motherboard including the bridge for the thermal signals.
+
+**How can i tell if i have a corona/waitsburg motherboard?**
+
+You can without even opening your console, Take a look on the rear of the xbox directly above the av port there is an amperage rating - You should see 12v followed by either 9.6A or 10.83A, If you see 9.6A you have a corona/waitsburg, If you see 10.83 you have a trinity which is not a good thing meaning you may have a faulty gpu instead.
+
+**How do i fix it?**
+
+First off, You need to have soldering equipment and experience is highly suggested before trying this repair, However in the world of xbox 360 repairs this one is fairly simple,
+You will need to locate the thermal sensor bridge resistors as shown in the image and follow the instructions on the image and check the row of resistors with a multimeter to insure they are all 0 ohm.
+If they are all 0 ohm this tutorial wont help you, however if one or two or more are NOT 0 ohm you will heat the affected resistors with a soldering iron and remove them, you will then bridge them with some solder,
+theoretically after that the false overheat issue is fixed, Attempt to boot your Xbox and it should be fixed!
+
+***ONLY ATTEMPT THIS REPAIR IF YOU ARE EXPERIENCED AND ARE 100% CERTAIN YOU CAN DO IT WITHOUT DAMAGING THE XBOX FURTHER.***
+
+[Image of resistors](https://i.imgur.com/bQplbmB.jpg)

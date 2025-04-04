@@ -1,0 +1,9 @@
+```ansi
+[2;31mRROD code 1020(E72)...[0m[2;31m[0m
+```
+
+Cause: This happens when the SMC configuration is corrupt or missing, Typicly caused by a bad NAND image.
+
+Solution: No easy to do fixes, Advanced solutions include Re-flashing the NAND with a tool, And rarely replacement of the NAND with soldering tools.
+
+``Additional info: SMC configuration area in the nand is corrupt, ERROR_SMC_FLASH_CONFIG_CORRUPT``

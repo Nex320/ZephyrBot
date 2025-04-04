@@ -1,0 +1,17 @@
+**Instructions**
+Once the console enters a failure mode and the red lights are displayed, the error code can be accessed via the following procedure. Be sure to reference the table below to reliably determine each value of the error code.
+
+1. While holding sync, press the eject button once. The first value of the error code is displayed.
+2. Continuing to hold sync, press the eject button again. The second value of the error code is displayed.
+3. Keep holding sync and press the eject button a third time. The third value of the error code is displayed.
+4. While still holding sync, press the eject button a fourth time. The fourth and final value of the error code is displayed.
+5. Holding sync and pressing the eject button a fifth time causes display to return to the failure mode.
+6. Look up the code in the database below.
+
+*Notes*
+The value of the code may not change between presses. For example, if the code is 0001, then 0, 0, 0, 1 will be displayed. It is important to take note of the value on every eject button press.
+Confirming that the error code sequence exits back to the failure mode with the fifth press of eject while holding sync is useful to confirm all 4 values of the error code have been retrieved.
+For some reason in early 2006, Microsoft changed the full ring of the secondary code to mean 4 instead of 0, but we're going to keep the meaning as 0 as this makes it easier to understand. Microsoft appeared to continue using 0 internally as well.
+
+**Xbox 360 (Original)**
+When retrieving the error code using the procedure above, the values are displayed by the outer segments of the [Ring of Light](https://cdn.discordapp.com/attachments/1357140568030838825/1357206394453102725/0B45F24C-FD52-4E99-AAC9-4847BF51B1A5.png?ex=67ef5c74&is=67ee0af4&hm=33f6c369225e6b0545045625fed23249c1ccb3c89b22c2f5be9ed403e986ac34&) rapidly flashing red.

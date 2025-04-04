@@ -1,0 +1,9 @@
+```ansi
+[2;34m[2;32mOriginal Xbox Error Code 06...[0m[2;34m[0m
+```
+
+Cause: Incorrect hard drive password. The hard disk drive is locked, but its locked with another password that belongs to another Xbox
+
+Solution: remove hard drive and unlock the hard drive with computer software using its respective original HDD key OR format the HDD replace system files and then mod the Xbox, or pull the HDD key from the Xbox's TSOP and unlock the hard drive with computer software using its respective original HDD key OR format the HDD replace system files and then re lock the HDD using the newly obtained HDD key
+
+``Additional info: This should not have happened unless you installed a different hard drive from another Xbox.``
